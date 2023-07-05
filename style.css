@@ -1,0 +1,31 @@
+.pbm {
+width: 400px;
+height: 150px;
+background-color: rgb(3, 71, 3);
+margin-left: 400px;
+margin-top: 170px;
+text-align: center;
+
+}
+.pbm1{
+width: 100px;
+height: 100px;
+background-color: red;
+border-radius:100%;
+margin-left:130px;
+margin-bottom:400px;
+padding-left: 50px;
+padding-top: 50px;
+}
+div{
+width: 30px;
+margin-left: 400px;
+height:250px;
+background-color:rgb(7, 2, 0);
+}
+.a{
+width: 150px;
+height: 80px;
+background-color: rgb(32, 48, 32);
+margin-left: 340px;
+}
